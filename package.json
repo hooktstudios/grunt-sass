@@ -26,7 +26,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "node-sass": "~0.5.0",
+    "node-sass": "git+ssh://git@github.com:andrew/node-sass.git#1a441d56b5f50a5bcf8630370ff553810ff5c1b8",
     "grunt-lib-contrib": "~0.6.1"
   },
   "devDependencies": {
